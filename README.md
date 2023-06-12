@@ -1,9 +1,6 @@
 - 👋 Hi, I’m Preksha
-- 👀 I’m interested in •Web Development
-                       •App Development 
-            
-- 🌱 I’m currently learning Machine Learning
-- 💞️ I’m looking to collaborate on ...
+- Based in India
+- 🏫Thapar Institute of Engineering and Technology        
 - 📫 How to reach me @prekshakatyal24@gmail.com 
 
 <!---
